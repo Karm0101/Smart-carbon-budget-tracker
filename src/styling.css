@@ -22,3 +22,9 @@ textarea {
     font-size: 15px;
     resize: none;
 }
+#submitButton {
+    margin: 0px;
+    font-size: 17px;
+    color: rgb(0, 158, 0);
+    border-color: rgb(0, 158, 0);
+}
